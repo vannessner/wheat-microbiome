@@ -11,7 +11,5 @@ Computational and Structural Biotechnology Journal.
 
 Acknowledgements
 
-Main developer: Vanessa Nessner Kavamura
-
 This research was funded by the Natural Environment Research Council (NERC) and the Biotechnology and Biological Sciences Research Council (BBSRC) under research program NE/N018125/1 LTS-M ASSIST – Achieving Sustainable Agricultural Systems www.assist.ceh.ac.uk. 
 We also thank Bilateral BBSRC-Embrapa grant on “Exploitation of the wheat rhizosphere microbiome for sustainable wheat production” (BB/N016246/1); “Optimization of nutrients in soil-plant systems: How can we control nitrogen cycling in soil?” (BBS/E/C/00005196) and “S2N – Soil to nutrition – Work package 1 – Optimizing nutrient flows and pools in the soil-plant-biota system” (BBS/E/C/000I0310). 

@@ -1,6 +1,6 @@
 # wheat-microbiome
 
-Scripts and codes used for the analyses of datasets from wheat grown at Rothamsted Research, UK.
+Scripts and data used for the analyses and generation of figures of datasets from wheat grown at Rothamsted Research, UK.
 
 This is part of the paper entitled: "Rooting around the wheat microbiome: elucidating defining factors and the identification of core members"
 

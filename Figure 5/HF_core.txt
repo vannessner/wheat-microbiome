@@ -1,0 +1,10 @@
+Treatment	Core
+AA	709
+AA	732
+AA	864
+BA	631
+BA	593
+BA	567
+GA	821
+GA	850
+GA	846
